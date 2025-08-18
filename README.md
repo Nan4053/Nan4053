@@ -5,7 +5,7 @@
     <td width="60%" valign="top" height="40%">
       
 🔭 I’m currently working on <strong>something cool</strong><br><br>
-🌱 I’m currently learning <strong>Spring Boot with Hibernate</strong><br><br>
+🌱 I’m currently learning <strong>Yocto-Linux</strong><br><br>
 💬 Ask me anything about <strong>Javascript, ReactJS, Node.js, C++, Python</strong><br><br>
 📫 How to reach me: <strong>nandini.bokaro4053@gmail.com</strong><br><br>
 ⚡ Fun Facts About Me: <br><br>
