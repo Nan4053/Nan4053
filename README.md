@@ -5,8 +5,8 @@
     <td width="60%" valign="top" height="40%">
       
 🔭 I’m currently working on <strong>something cool</strong><br><br>
-🌱 I’m currently learning <strong>Yocto-Linux</strong><br><br>
-💬 Ask me anything about <strong>Javascript, ReactJS, Node.js, C++, Python</strong><br><br>
+ 🌱 I’m currently diving deeper into <strong>Computer Vision, Large Language Models (LLMs), AI/ML Systems, and MLOps</strong><br><br>
+💬 Ask me anything about <strong>Machine Learning, Deep Learning, Python, PyTorch, TensorFlow, REST APIs, and System Design</strong><br><br>
 📫 How to reach me: <strong>nandini.bokaro4053@gmail.com</strong><br><br>
 ⚡ Fun Facts About Me: <br><br>
   &nbsp;&nbsp;🧠 I can debug code faster than I can decide what to eat for dinner<br><br>
@@ -53,6 +53,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Sci-kit](https://img.shields.io/badge/-scikit-000?logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?logo=numpy)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?logo=opencv)
 ![Colab](https://img.shields.io/badge/-googlecolab-000?logo=googlecolab)
 
 ### Tools
